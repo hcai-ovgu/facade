@@ -1,3 +1,7 @@
+# PROJECT FILES
+_app_py_files/
+pickle_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
