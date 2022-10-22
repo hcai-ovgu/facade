@@ -1,7 +1,7 @@
 # FACADE: Fake Articles Classification and Decision Explanation
 
 * [Demo Video](https://drive.google.com/file/d/1kMobWPQkyZfEHMAYBx_GN-HpTO7nlBB4/view?usp=sharing)
-* [Live Webapp]() 
+* [Live Webapp](https://dtdh206.cs.uni-magdeburg.de:443) 
 
 ## System description
 
