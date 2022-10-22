@@ -38,7 +38,7 @@ The main file `facade_demo_nb.ipynb`, containing all the procedures for running 
 $ jupyter nbconvert --to notebook --execute facade_demo_nb.ipynb
 ```
 
-Once all the variables have been loaded (it may take long time the first time), the core module runs as a [Flask](https://flask.palletsprojects.com/en/2.2.x/) application.
+Once all the variables have been loaded (this may take a long time at the first execution), the core module runs as a [Flask](https://flask.palletsprojects.com/en/2.2.x/) application.
 If everything went well, the application starts listening on `localhost:5000`:
 ```
 * Serving Flask app '__main__' (lazy loading)
